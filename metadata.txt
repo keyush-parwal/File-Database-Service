@@ -1,0 +1,4 @@
+Table Name: EMPLOYEE
+Column: NAME, Type: STRING
+Column: ID, Type: INTEGER
+Column: LN, Type: STRING
